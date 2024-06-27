@@ -1,0 +1,2 @@
+Welcome to the Call Center Data Analysis Dashboard repository! This project leverages Power BI to provide comprehensive insights into call center operations, helping you understand key performance metrics and improve efficiency.
+This Power BI dashboard visualizes various aspects of call center data, including call volume, response times, customer satisfaction, and agent performance. The goal is to provide stakeholders with an interactive tool to monitor and analyze call center performance and identify areas for improvement.
